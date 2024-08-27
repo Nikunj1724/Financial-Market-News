@@ -9,6 +9,7 @@ df.head()
 df.info()
 df.shape
 df.columns
+                                                                                                  
 Get Feature Selection
 ' '. join(str(x) for x in df.iloc[1,2:27])
 df.index
